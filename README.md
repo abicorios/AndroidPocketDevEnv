@@ -4,9 +4,9 @@ Do you need some like on the Integrated Development Environment (IDE) in your po
 Android system can automaticaly close Termux, if you switch to another program. So youself need save data. Also, do not switch to other program along some compiling, updating, installing, etc.
 # Dependencies
 1. The Android device which can run Termux;
-2. Hacker's Keyboard https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard have the additional keys  (Ctr, Alt, Esc, etc) like on the keyboard for the desktop. But you must set it from 3 to 5 rows. You can want to stop some console programm by the Ctrl+C, so install this full keyboard before using Ping, for example.
-3. Termux from GooglePlay https://play.google.com/store/apps/details?id=com.termux is the powerfull command line;
-4. TermuxArch https://wiki.termux.com/wiki/Arch is the full extensible operation system with the package manager and now (end of 2017 year) it is one working Linux distributive which can be installed without big errors by PRoot in Termux. Also TermuxArch produce less errors than pure Termux along using like on the usual Linux. And it is better for your to confirm the adding of the startarch script in your path at the end of the installing of the TermuxArch;
+2. The Hacker's Keyboard https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard have the additional keys  (Ctr, Alt, Esc, etc) like on the keyboard for the desktop. But you must set it from 3 to 5 rows. You can want to stop some console programm by the Ctrl+C, so install this full keyboard before using Ping, for example.
+3. The Termux from the GooglePlay https://play.google.com/store/apps/details?id=com.termux is the powerfull command line;
+4. The TermuxArch https://wiki.termux.com/wiki/Arch is the full extensible operation system with the package manager and now (end of 2017 year) it is one working Linux distributive which can be installed without big errors by PRoot in Termux. Also TermuxArch produce less errors than pure Termux along using like on the usual Linux. And it is better for your to confirm the adding of the startarch script in your path at the end of the installing of the TermuxArch;
 5. You must know something about Linux and Vim, so study it in the pure Termux for start. Also, for quit from Vim you must print two symbols, first is :, second is q, and after it press Enter key.
 ```
 :q
@@ -14,8 +14,8 @@ Android system can automaticaly close Termux, if you switch to another program. 
 # No lightweight using
 It is not the lightweight apk application. It is the downloading by network and installing of the Linux operation system, the soft, the libraries and the sources, and compiling the YouCompleteMe source code. So it will cost disk space and some time. You must be hardcore human to start it.
 # Install
-1. Reopen Termux.
-2. Run commands
+1. Reopen the Termux.
+2. Run the commands
 ```
 startarch
 pacman -S git
@@ -32,8 +32,8 @@ and must be compiled by ./install.py --clang-complete for C++ autocomplete. Also
 # References
 Read more about:
 
-Vim is the text editor http://www.vim.org/;
+The Vim is the text editor http://www.vim.org/;
 
-vim-plug is the plugin manager for Vim https://github.com/junegunn/vim-plug;
+The vim-plug is the plugin manager for the Vim https://github.com/junegunn/vim-plug;
 
-YouCompleteMe is the autocomplete tool to programming in Vim like on an IDE https://github.com/Valloric/YouCompleteMe
+The YouCompleteMe is the autocomplete tool to programm in the Vim like on an IDE https://github.com/Valloric/YouCompleteMe
