@@ -12,5 +12,4 @@ startarch
 git clone https://github.com/abicorios/AndroidPocketDevEnv
 cd AndroidPocketDevEnv
 bash AndroidPocketDevEnv.sh
-vim
 ```
