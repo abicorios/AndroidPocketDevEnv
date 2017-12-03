@@ -13,3 +13,8 @@ git clone https://github.com/abicorios/AndroidPocketDevEnv
 cd AndroidPocketDevEnv
 bash AndroidPocketDevEnv.sh
 ```
+# References
+Read more about:
+Vim is the text editor http://www.vim.org/;
+vim-plug is the plugin manager for Vim https://github.com/junegunn/vim-plug;
+YouCompleteMe is the autocomplete tool to programming in Vim like on an IDE https://github.com/Valloric/YouCompleteMe
