@@ -11,7 +11,6 @@ Script which install the YouCompleteMe Vim plugin into the Arch Linux into the T
 startarch
 git clone https://github.com/abicorios/AndroidPocketDevEnv
 cd AndroidPocketDevEnv
-chmod +x AndroidPocketDevEnv.sh
 bash AndroidPocketDevEnv.sh
 vim
 ```
