@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 cd
 pacman -S vim base-devenv
 ln -s "/usr/lib/libncursesw.so.6.0" -T "/usr/lib/libtinfo.so.5"
