@@ -28,7 +28,7 @@ May be you so not need run this script. May be you must know only that YouComple
 ```
 ln -s "/usr/lib/libncursesw.so.6.0" -T "/usr/lib/libtinfo.so.5"
 ```
-and must be compiled by ./install.py --clang-complete for C++ autocomplete. Also, pwd command after run startarch show Android path, but after cd command, pwd show Arch own path. So may be you want add cd command to your .bash_profile file.
+and must be compiled by ./install.py --clang-complete for C/C++/ObjC autocomplete. Also, the pwd command after run the startarch show the Android path, but after the cd command, the pwd show the Arch's own path. So may be you want add the cd command to your .bash_profile file.
 # References
 Read more about:
 
