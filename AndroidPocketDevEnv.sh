@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 cd
-pacman -S vim base-devenv
+pacman -S vim base-devel
 ln -s "/usr/lib/libncursesw.so.6.0" -T "/usr/lib/libtinfo.so.5"
 echo "if empty(glob('~/.vim/autoload/plug.vim'))
   silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
