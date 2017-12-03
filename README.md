@@ -7,11 +7,11 @@ Script which install the YouCompleteMe Vim plugin into the Arch Linux into the T
 # Install
 1. Open Termux.
 2. Run commands
-'''
+```
 startarch
 git clone https://github.com/abicorios/AndroidPocketDevEnv
 cd AndroidPocketDevEnv
 chmod +x AndroidPocketDevEnv.sh
 bash AndroidPocketDevEnv.sh
 vim
-'''
+```
