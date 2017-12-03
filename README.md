@@ -7,7 +7,7 @@ Android system can automaticaly close Termux, if you switch to another program. 
 2. Termux from GooglePlay https://play.google.com/store/apps/details?id=com.termux is the powerfull command line;
 3. TermuxArch https://wiki.termux.com/wiki/Arch is the full extensible operation system with the package manager and now (end of 2017 year) it is one working Linux distributive which can be installed without big errors by PRoot in Termux. Also TermuxArch produce less errors than pure Termux along using like on the usual Linux;
 4. Hacker's Keyboard https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard have the additional keys  (Ctr, Alt, Esc, etc) like on the keyboard for the desktop. But you must set it from 3 to 5 rows. You can want to stop some console programm by the Ctrl+C, so install this full keyboard before using Ping, for example.
-5. You must know something about Linux and Vim, so study it in the pure Termux for start. Also, for quit from Vim you must print two simbol, first is :, second is q, and after it press Enter key.
+5. You must know something about Linux and Vim, so study it in the pure Termux for start. Also, for quit from Vim you must print two symbols, first is :, second is q, and after it press Enter key.
 ```
 :q
 ```
