@@ -12,7 +12,7 @@ startarch
 pacman -S git
 git clone https://github.com/abicorios/AndroidPocketDevEnv
 cd AndroidPocketDevEnv
-bash AndroidPocketDevEnv.sh
+. AndroidPocketDevEnv.sh
 ```
 # References
 Read more about:
