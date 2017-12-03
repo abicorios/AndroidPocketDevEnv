@@ -9,6 +9,7 @@ Do you need some like on the Integrated Development Environment in your pocket? 
 2. Run commands
 ```
 startarch
+pacman -S git
 git clone https://github.com/abicorios/AndroidPocketDevEnv
 cd AndroidPocketDevEnv
 bash AndroidPocketDevEnv.sh
