@@ -3,7 +3,7 @@ Do you need some like on the Integrated Development Environment in your pocket? 
 # Dependencies
 1. Android device which can run Termux;
 2. Termux from GooglePlay https://play.google.com/store/apps/details?id=com.termux is the powerfull command line;
-3. TermuxArch https://wiki.termux.com/wiki/Arch is the full extensible operation system with the package manager and now it is one working linux distributive whish can be installed without big errors by PRoot in Termux;
+3. TermuxArch https://wiki.termux.com/wiki/Arch is the full extensible operation system with the package manager and now (end of 2017 year) it is one working linux distributive which can be installed without big errors by PRoot in Termux;
 4. Hacker's Keyboard https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard
 # Install
 1. Reopen Termux.
