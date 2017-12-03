@@ -5,7 +5,7 @@ Do you need some like on the Integrated Development Environment in your pocket? 
 2. Termux from GooglePlay https://play.google.com/store/apps/details?id=com.termux;
 3. TermuxArch https://wiki.termux.com/wiki/Arch
 # Install
-1. Open Termux.
+1. Reopen Termux.
 2. Run commands
 ```
 startarch
