@@ -13,4 +13,4 @@ call plug#begin('~/.vim/plugged')
 Plug 'Valloric/YouCompleteMe', { 'do': './install.py --clang-complete --system-libclang' }
 call plug#end()
 " >> .vimrc
-vim -c PlugInstall
+vim -c PlugInstall -c qa
