@@ -24,7 +24,7 @@ cd AndroidPocketDevEnv
 . AndroidPocketDevEnv.sh
 ```
 # About this script
-May be you so not need run this script. May be you must know only that YouCompleteMe depend on the base-devel, cmake, python, python2, clang, vim in TermuxArch system, and must be compiled by ./install.py --clang-complete --system-libclang for C/C++/ObjC autocomplete. Also, the pwd command after run the startarch show the Android path, but after the cd command, the pwd show the Arch's own path. So may be you want add the cd command to your .bash_profile file.
+May be you do not need run this script. May be you must know only that YouCompleteMe depend on the base-devel, cmake, python, python2, clang, vim in TermuxArch system, and must be compiled by ./install.py --clang-complete --system-libclang for C/C++/ObjC autocomplete. Also, the pwd command after run the startarch show the Android path, but after the cd command, the pwd show the Arch's own path. So may be you want add the cd command to your .bash_profile file.
 # References
 Read more about:
 
