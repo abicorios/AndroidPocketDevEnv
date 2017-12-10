@@ -12,7 +12,7 @@ Android system can automaticaly close Termux, if you switch to another program. 
 :q
 ```
 # No lightweight using
-It is not the lightweight apk application. It is the downloading by network and installing of the Linux operation system, the soft, the libraries and the sources, and compiling the YouCompleteMe source code. So it will cost the disk space and some time. You must be hardcore human to start it.
+It is not the lightweight apk application. It is the downloading by network and installing of the Linux operation system, the soft, the libraries and the sources, and compiling the YouCompleteMe source code. So it will cost the disk space (more than **2 GB**) and some time (**several hours**). You must be hardcore human to start it.
 # Install
 1. Reopen the Termux.
 2. Run the commands
