@@ -2,7 +2,7 @@
 cd
 echo 'cd
 set -o vi'>>.bash_profile
-pacman -Syu base-devel cmake python clang vim
+pacman -Syu base-devel cmake python python2 clang vim
 #ln -s "/usr/lib/libncursesw.so.6.0" -T "/usr/lib/libtinfo.so.5"
 echo "if empty(glob('~/.vim/autoload/plug.vim'))
   silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
