@@ -12,6 +12,7 @@ Android system can automaticaly close Termux, if you switch to another program. 
 :q
 ```
 6. For Gui, install and run https://play.google.com/store/apps/details?id=x.org.server
+
 And run 
 ```
 export DISPLAY=:0 PULSE_SERVER=tcp:127.0.0.1:4712
