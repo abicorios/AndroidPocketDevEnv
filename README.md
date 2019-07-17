@@ -1,5 +1,6 @@
 # Attention!
 It is not working on Android 9. It is working on Android 8. https://github.com/sdrausty/TermuxArch/issues/145
+Actual version is https://github.com/abicorios/Android9PocketDevEnvUbuntu
 # AndroidPocketDevEnv
 Do you need some like on the Integrated Development Environment (IDE) in your pocket? It can be nice if you study the programming at free time. You can programm on your sofa on the weekend, in the long queue, along the lunch break or along the travel from the job to the home. You can obtain it. Just run the script which install the YouCompleteMe Vim plugin into the Arch Linux into the Termux commandline on the Android. Do not need the rooting of the device, but have the pseudo root (by PRoot). It is not the virtual machine.
 # How to loss your sorce code
